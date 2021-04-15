@@ -1,5 +1,5 @@
 {
-  "name": "loopback",
+  "name": "@sansitech/loopback",
   "version": "3.28.1",
   "description": "LoopBack: Open Source Framework for Node.js",
   "homepage": "http://loopback.io",
