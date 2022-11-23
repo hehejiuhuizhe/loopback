@@ -79,7 +79,7 @@
     "grunt-karma": "^3.0.2",
     "grunt-mocha-test": "^0.13.3",
     "is-docker": "^2.0.0",
-    "karma": "^4.1.0",
+    "karma": "^6.4.1",
     "karma-browserify": "^6.0.0",
     "karma-chrome-launcher": "^3.1.0",
     "karma-es6-shim": "^1.0.0",
